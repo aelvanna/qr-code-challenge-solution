@@ -47,6 +47,8 @@ For future projects, I would like to continue focusing on reinforcing my knowled
 
 - [W3 Schools](https://www.w3schools.com/css/css3_variables.asp) - I wanted to create custom CSS variables for the colors from the style guide provided with the challenge, but required a refresher on how to create and use them. This website was helpful in refreshing my knowledge on the topic.
 
+- [nekoCalc](https://nekocalc.com/px-to-rem-converter) - In order to make my project more responsive and improve accessiblity, I used this to convert the px sizes I used to rem
+
 ## Author
 
 - Website - [Liza Fernandez](https://lizafernandez.dev)
