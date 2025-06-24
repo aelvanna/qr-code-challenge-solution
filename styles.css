@@ -59,19 +59,19 @@ p {
 .card {
   flex-direction: column;
   background: var(--white);
-  width: 320px;
-  height: 499px;
+  width: 20rem;
+  height: 31.2rem;
   margin: 0 auto;
   text-align: center;
-  border-radius: 20px;
+  border-radius: 6.25rem;
 }
 
 
 
 img {
-  width: 288px;
-  height: 288px;
-  border-radius: 10px;
+  width: 18rem;
+  height: 18rem;
+  border-radius: 6.25rem;
   vertical-align: middle;
   margin: 1rem 0rem 1.5rem;
 }
